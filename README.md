@@ -3,6 +3,21 @@ This is a minimal example of how to use Selenium to perform web scraping in Pyth
 
 It can be use in order to extract information from online datasets in an easy and automatizable process
 
+# Selenium Web Scraping Demo
+
+This is a minimal example of how to use Selenium to perform web scraping in Python.
+
+## Requirements
+
+- Python 3.7+
+- Google Chrome + ChromeDriver
+- Selenium
+
+## Installation
+
+```bash
+pip install -r requirements.txt
+
 ---
 
 ### 📄 `scraper.py` (código simple de ejemplo)
